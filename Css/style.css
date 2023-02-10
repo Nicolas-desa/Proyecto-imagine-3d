@@ -183,7 +183,9 @@
 }
 
 .servicio img{
-    border-radius:13px;
+    border-radius:15px;
+    border-style:double;
+    border-color: #6da9ed;
     display: block;
     max-width: 225px;
 }
